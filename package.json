@@ -1,0 +1,22 @@
+{
+  "name": "luksm.github.io",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luksm/luksm.github.io.git"
+  },
+  "author": "Lucas Machado <git@lucasms.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luksm/luksm.github.io/issues"
+  },
+  "homepage": "https://github.com/luksm/luksm.github.io",
+  "devDependencies": {
+    "stylus": "^0.54.5"
+  }
+}
