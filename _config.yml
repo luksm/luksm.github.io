@@ -1,4 +1,4 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 paginate: 3
 gems: [jekyll-paginate]
