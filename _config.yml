@@ -1,4 +1,0 @@
-markdown: kramdown
-highlighter: rouge
-paginate: 3
-gems: [jekyll-paginate]
