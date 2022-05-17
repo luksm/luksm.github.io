@@ -69,7 +69,7 @@ $ git commit -m 'My commit message'
 The output will be
 
 ```
-VOC-0000 feat: My commit message
+JIRA-0000 feat: My commit message
 ```
 
 Same thing if you are commiting from any UI.
